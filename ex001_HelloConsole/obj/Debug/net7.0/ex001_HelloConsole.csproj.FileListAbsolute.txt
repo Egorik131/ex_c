@@ -1,0 +1,15 @@
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\bin\Debug\net7.0\ex001_HelloConsole.exe
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\bin\Debug\net7.0\ex001_HelloConsole.deps.json
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\bin\Debug\net7.0\ex001_HelloConsole.runtimeconfig.json
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\bin\Debug\net7.0\ex001_HelloConsole.dll
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\bin\Debug\net7.0\ex001_HelloConsole.pdb
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.AssemblyInfo.cs
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.dll
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\refint\ex001_HelloConsole.dll
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.pdb
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ex001_HelloConsole.genruntimeconfig.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex001_HelloConsole\obj\Debug\net7.0\ref\ex001_HelloConsole.dll
