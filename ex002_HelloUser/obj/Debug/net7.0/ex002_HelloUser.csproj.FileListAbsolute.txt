@@ -1,0 +1,15 @@
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.AssemblyInfo.cs
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\bin\Debug\net7.0\ex002_HelloUser.exe
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\bin\Debug\net7.0\ex002_HelloUser.deps.json
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\bin\Debug\net7.0\ex002_HelloUser.runtimeconfig.json
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\bin\Debug\net7.0\ex002_HelloUser.dll
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\bin\Debug\net7.0\ex002_HelloUser.pdb
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.dll
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\refint\ex002_HelloUser.dll
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.pdb
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ex002_HelloUser.genruntimeconfig.cache
+C:\Users\Егор\Documents\Обучение Python\example\ex002_HelloUser\obj\Debug\net7.0\ref\ex002_HelloUser.dll
