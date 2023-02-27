@@ -53,16 +53,41 @@
 
 //4. Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого.
 
-bool Quad(int num1, int num2)
-{
-    return num1 * num1 == num2 | num2 * num2 == num1;
-}
+// bool Quad(int num1, int num2)
+// {
+//     return num1 * num1 == num2 | num2 * num2 == num1;
+// }
 
+// int randomnum1 = new Random().Next(1, 1000);
+// int randomnum2 = new Random().Next(1, 1000);
+
+// randomnum1 = 5;
+// randomnum2 = 25;
+// Console.WriteLine(randomnum1);
+// Console.WriteLine(randomnum2);
+// Console.WriteLine(Quad(randomnum1, randomnum2));
+
+// Напишите программу, которая будет принимать на вход два числа и выводить, является ли второе число кратным первому.
+//Если второе число не кратно числу первому, то программа выводит остаток от деления.
+
+// 34, 5 -> не кратно, остаток 4
+// 16, 4  -> кратно
+
+
+int Krat(int num1, int num2)
+{
+    int res = num1 % num2;
+    return res;
+}   
+   
 int randomnum1 = new Random().Next(1, 1000);
 int randomnum2 = new Random().Next(1, 1000);
 
-// randomnum1 = 25;
-// randomnum2 = 5;
-Console.WriteLine(randomnum1);
-Console.WriteLine(randomnum2);
-Console.WriteLine(Quad(randomnum1, randomnum2));
+//randomnum1 = 16;
+//randomnum2 = 4;
+//Console.WriteLine(randomnum1);
+//Console.WriteLine(randomnum2);
+//Console.WriteLine(Krat(randomnum1, randomnum2));
+
+if (Krat(randomnum1, randomnum2) == 0) Console.WriteLine($"Кратно");
+else Console.WriteLine($"не кратно, {Krat(randomnum1, randomnum2)}");
