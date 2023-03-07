@@ -1,7 +1,20 @@
-﻿
-
-
-
+﻿//Задача 1 НАпишите программау, котороя принимает на вход число (А) и выадет сумму числе от 1 до а
+// 7 - 28
+// 4 - 10
+// 8 - 36
+ 
+// int FindSum (int num)
+// {
+//     int sum = 0;
+//     for (int current = 1; current <= num; current++)
+//     {
+//         sum += current;
+//     }
+//     return sum;
+// }
+// Console.WriteLine("Input A: ");
+// int a = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine(FindSum(a));
 
 
 //Задача 4. Напишите программу, которая выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке.
