@@ -95,7 +95,7 @@
 // Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
 
-// Решение:
+//Решение:
 // double[] CreateRandomArray(int size, int minValue, int maxValue)
 // {
 //     double[] newArray = new double[size];
@@ -117,7 +117,7 @@
 //     Console.Write("]");
 // }
 
-// void SumMinMax(double[] array)
+// void DiffMaxMin(double[] array)
 // {
 //     double sum = 0;
 //     double min = array[0];
@@ -127,7 +127,7 @@
 //         if (array[i] <= min) min = array[i];
 //             if (array[i] >= max) max = array[i];
 //     }
-//     Console.WriteLine("{0:0.00}", sum = min + max);
+//     Console.WriteLine("{0:0.00}", sum = max - min);
 // }
 
 // Console.Write("Input array size: ");
@@ -140,4 +140,4 @@
 // double[] myArray = CreateRandomArray(size, minValue, maxValue);
 // ShowArray(myArray);
 // Console.Write(" -> ");
-// SumMinMax(myArray);
+// DiffMaxMin(myArray);
