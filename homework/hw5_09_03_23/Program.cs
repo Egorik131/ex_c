@@ -119,7 +119,7 @@
 
 // void DiffMaxMin(double[] array)
 // {
-//     double sum = 0;
+//     double diff = 0;
 //     double min = array[0];
 //     double max = array[0];
 //     for (int i = 1; i < array.Length; i++)
@@ -127,7 +127,7 @@
 //         if (array[i] <= min) min = array[i];
 //             if (array[i] >= max) max = array[i];
 //     }
-//     Console.WriteLine("{0:0.00}", sum = max - min);
+//     Console.WriteLine("{0:0.00}", diff = max - min);
 // }
 
 // Console.Write("Input array size: ");
